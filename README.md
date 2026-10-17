@@ -168,7 +168,6 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 - [datamechanics/spark](https://hub.docker.com/r/datamechanics/spark) - An easy to setup Docker image for Apache Spark from [Data Mechanics](https://www.datamechanics.co/).
-- [Hadoop Spark Cluster](https://github.com/mgarralda/hadoop-spark-cluster) <img src="https://img.shields.io/github/last-commit/mgarralda/hadoop-spark-cluster.svg"> - Reproducible Docker Compose research environment with Standalone/YARN execution, HDFS, JupyterLab, and execution history services.
 
 
 ### Miscellaneous
